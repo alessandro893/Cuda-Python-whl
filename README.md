@@ -1,3 +1,3 @@
 # Cuda-Python-whl
 
-Python whl installable packages compiled with CUDA support.
+Python 3.10 whl installable packages compiled with CUDA support.
